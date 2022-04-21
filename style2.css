@@ -1,3 +1,23 @@
-.carousel-item img{
-    height: 500px;
+/* /* * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} */
+
+body,
+.album222,
+input {
+    background-color: #000;
+}
+
+.carousel-item img {
+    height: 800px;
+}
+
+h1 {
+    color: aliceblue;
+}
+
+h2 {
+    color: aliceblue;
 }
